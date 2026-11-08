@@ -17,24 +17,24 @@
     "home": {
         "slides": [
             {
-                "image": "uploads/20261108-16b19fce916f.jpg",
+                "image": "uploads/20261108-cea36860d113.jpg",
                 "title": "Fotokopi makinesi satış, kiralama ve bakım",
                 "text": "İşletmeniz için fotokopi ve yazıcı çözümleri: satış, kiralama, toner dolumu ve teknik servis.",
-                "button_text": "Bize Ulaşın",
+                "button_text": "",
                 "button_link": "iletisim.html"
             },
             {
-                "image": "uploads/20261108-adfdda8983b7.jpg",
+                "image": "uploads/20261108-930367447d85.jpg",
                 "title": "Kimlik ve kart baskısı",
                 "text": "Personel kimlik kartı, ziyaretçi kartı ve ilk yardımcı kartı baskısı yapıyoruz.",
-                "button_text": "Detaylı Bilgi",
+                "button_text": "",
                 "button_link": "hizmetler.html"
             },
             {
-                "image": "uploads/20261108-05c09e224bd0.jpg",
+                "image": "uploads/20261108-34bd6795fbc6.jpg",
                 "title": "",
                 "text": "",
-                "button_text": "Hizmetlerimiz",
+                "button_text": "",
                 "button_link": "hizmetler.html"
             }
         ],
