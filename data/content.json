@@ -1,0 +1,144 @@
+{
+    "site": {
+        "name": "Aybek Kırtasiye",
+        "tagline": "Kırtasiye · Fotokopi · Büro Makineleri",
+        "company": "Aybek Büro Makinaları ve Cihazları Kırtasiye Mobilya San. Tic. Ltd. Şti.",
+        "phone": "0535 667 47 06",
+        "whatsapp": "905356674706",
+        "email1": "egeaybekefe@gmail.com",
+        "email2": "aybek_efe@hotmail.com",
+        "address": "Etiler, Anafartalar Cd., 35240 Konak/İzmir",
+        "map_query": "Aybek Kırtasiye, Anafartalar Cd., Etiler, 35240 Konak/İzmir",
+        "hours": "",
+        "instagram": "",
+        "facebook": "",
+        "footer_text": "Kırtasiye ürünleri, fotokopi ve dijital baskı, fotokopi makinesi satış, kiralama ve teknik servis hizmetleri."
+    },
+    "home": {
+        "slides": [
+            {
+                "image": "",
+                "title": "Kırtasiyeden fotokopiye, aradığınız her şey burada",
+                "text": "Kırtasiye ürünleri, fotokopi ve dijital baskı hizmetlerini tek adreste sunuyoruz.",
+                "button_text": "Hizmetlerimiz",
+                "button_link": "hizmetler.html"
+            },
+            {
+                "image": "",
+                "title": "Fotokopi makinesi satış, kiralama ve bakım",
+                "text": "İşletmeniz için fotokopi ve yazıcı çözümleri: satış, kiralama, toner dolumu ve teknik servis.",
+                "button_text": "Bize Ulaşın",
+                "button_link": "iletisim.html"
+            },
+            {
+                "image": "",
+                "title": "Kimlik ve kart baskısı",
+                "text": "Personel kimlik kartı, ziyaretçi kartı ve ilk yardımcı kartı baskısı yapıyoruz.",
+                "button_text": "Detaylı Bilgi",
+                "button_link": "hizmetler.html"
+            }
+        ],
+        "intro_title": "Aybek Kırtasiye & Fotokopi",
+        "intro_text": "Okul, ofis ve günlük ihtiyaçlarınız için kırtasiye ürünlerinden fotokopi ve dijital baskıya kadar pek çok hizmeti bir arada sunuyoruz.\n\nFotokopi makinesi ve yazıcılarınızın satış, kiralama, bakım, tamir ve toner dolumu işlerini de güvenle bize bırakabilirsiniz.",
+        "highlights": [
+            {
+                "icon": "printer",
+                "title": "Hızlı Baskı",
+                "text": "Fotokopi ve dijital baskı işleriniz kısa sürede hazır."
+            },
+            {
+                "icon": "wrench",
+                "title": "Teknik Servis",
+                "text": "Fotokopi makinesi ve yazıcılar için tamir ve bakım."
+            },
+            {
+                "icon": "idcard",
+                "title": "Kart Baskısı",
+                "text": "Personel, ziyaretçi ve ilk yardımcı kartları."
+            },
+            {
+                "icon": "pen",
+                "title": "Kırtasiye",
+                "text": "Okul ve ofis için kırtasiye ürünleri."
+            }
+        ],
+        "cta_title": "Bir sorunuz mu var?",
+        "cta_text": "Fiyat bilgisi ve tüm sorularınız için bizi arayın ya da WhatsApp üzerinden yazın."
+    },
+    "about": {
+        "title": "Hakkımızda",
+        "intro": "İzmir Konak'ta kırtasiye, fotokopi ve büro makineleri alanında hizmet veriyoruz.",
+        "text": "Aybek Büro Makinaları ve Cihazları Kırtasiye Mobilya San. Tic. Ltd. Şti. olarak müşterilerimize kırtasiye ürünleri, fotokopi ve dijital baskı hizmetleri sunuyoruz.\n\nİşletmelere yönelik fotokopi makinesi satışı, kiralaması, bakımı ve tamiri ile yazıcı tamiri ve toner dolumu hizmetlerimizle ofislerin kesintisiz çalışmasına destek oluyoruz.\n\nPersonel kimlik kartı, ziyaretçi kartı ve ilk yardımcı kartı gibi kart baskı işlerinizi de hızlı ve özenli şekilde hazırlıyoruz.",
+        "image": "uploads/aybek-tanitim.jpeg"
+    },
+    "services": {
+        "title": "Hizmetlerimiz",
+        "intro": "Kırtasiyeden teknik servise kadar sunduğumuz hizmetler.",
+        "items": [
+            {
+                "icon": "pen",
+                "title": "Kırtasiye - Fotokopi",
+                "text": "Okul ve ofis kırtasiye ürünleri, siyah-beyaz ve renkli fotokopi."
+            },
+            {
+                "icon": "copier",
+                "title": "Fotokopi Kiralama",
+                "text": "İşletmeniz için fotokopi makinesi kiralama çözümleri."
+            },
+            {
+                "icon": "wrench",
+                "title": "Tamir Bakım",
+                "text": "Fotokopi makineleri için periyodik bakım ve arıza onarımı."
+            },
+            {
+                "icon": "printer",
+                "title": "Yazıcı Tamiri",
+                "text": "Her marka yazıcı için arıza tespiti ve tamir."
+            },
+            {
+                "icon": "cart",
+                "title": "Bakım Satış",
+                "text": "Fotokopi makinesi, yazıcı ve sarf malzemesi satışı."
+            },
+            {
+                "icon": "toner",
+                "title": "Toner Dolum",
+                "text": "Yazıcı ve fotokopi tonerleri için dolum hizmeti."
+            },
+            {
+                "icon": "idcard",
+                "title": "Personel Kimlik",
+                "text": "Kurumunuza özel personel kimlik kartı baskısı."
+            },
+            {
+                "icon": "badge",
+                "title": "Ziyaretçi Kartı",
+                "text": "Ziyaretçi kartı tasarımı ve baskısı."
+            },
+            {
+                "icon": "firstaid",
+                "title": "İlk Yardımcı Kartı",
+                "text": "İlk yardımcı kartı baskısı."
+            },
+            {
+                "icon": "image",
+                "title": "Dijital Baskı",
+                "text": "Afiş, broşür, kartvizit ve her türlü dijital baskı işi."
+            }
+        ]
+    },
+    "gallery": {
+        "title": "Galeri",
+        "intro": "Mağazamızdan ve yaptığımız işlerden görüntüler.",
+        "items": [
+            {
+                "image": "uploads/aybek-tanitim.jpeg",
+                "caption": "Aybek Fotokopi tanıtım afişi"
+            }
+        ]
+    },
+    "contact": {
+        "title": "İletişim",
+        "intro": "Mağazamıza bekleriz. Sorularınız için telefon, WhatsApp veya e-posta ile ulaşabilirsiniz."
+    }
+}
